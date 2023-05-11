@@ -148,105 +148,103 @@ automáticamente](https://github.com/ahmedwaix/Practica-05/blob/main/imagenes/21
 ![Texto Descripción generada
 automáticamente](https://github.com/ahmedwaix/Practica-05/blob/main/imagenes/22.png)![Texto Descripción generada
 automáticamente](https://github.com/ahmedwaix/Practica-05/blob/main/imagenes/23.png)Habilitem el nostre mysql i veiem el estat ![Texto Descripción generada
-automáticamente](https://github.com/ahmedwaix/Practica-05/blob/main/imagenes/24.png)Ara si processem a instalar el drupal, mitançant wget per terminal:
+automáticamente](https://github.com/ahmedwaix/Practica-05/blob/main/imagenes/24.png)
+> Ara si processem a instalar el drupal, mitançant wget per terminal:
 ![Texto Descripción generada
 automáticamente](https://github.com/ahmedwaix/Practica-05/blob/main/imagenes/25.png)
 >
-> ![Texto Descripción generada
-automáticamente](https://github.com/ahmedwaix/Practica-05/blob/main/imagenes/26.png)Creem una carpeta que es alla on el
-> descomprimirem el paquet instal·lat amb el
-> tar![Texto Descripción generada
-automáticamente](https://github.com/ahmedwaix/Practica-05/blob/main/imagenes/27.png)
+> Creem una carpeta que es alla on el descomprimirem el paquet instal·lat amb el tar![Texto Descripción generada
+automáticamente](https://github.com/ahmedwaix/Practica-05/blob/main/imagenes/26.png)
 >
-> Creem un link simbòlic anomenat drupal, appuntant al directori **drupal-10.0.9,** canviem el propietari, i com també els permisos![](./images/media/image12.png){width="6.267716535433071in"
-> height="0.5277777777777778in"}
+> Creem un link simbòlic anomenat drupal, appuntant al directori **drupal-10.0.9,** canviem el propietari, i com també els permisos ![Texto Descripción generada
+automáticamente](https://github.com/ahmedwaix/Practica-05/blob/main/imagenes/27.png)
 >
 > Activem aquells mòduls que no s'activen per defecte a apache
 >
-> ![](./images/media/image24.png){width="6.267716535433071in"
-> height="1.1666666666666667in"}
+> ![Texto Descripción generada
+automáticamente](https://github.com/ahmedwaix/Practica-05/blob/main/imagenes/28.png)
 >
 > Ara afegirem a l'arxiu de configuració nou que creem aquest contingut
 > que mostrem per imatge per tal que és pugui navegar per el navegador a
 > partir del
-> alias:![](./images/media/image18.png){width="6.267716535433071in"
-> height="1.1805555555555556in"}També hem de copia l'arxiu de
+> alias:![Texto Descripción generada
+automáticamente](https://github.com/ahmedwaix/Practica-05/blob/main/imagenes/29.png)També hem de copia l'arxiu de
 > configuració predeterminat a un nou arxiu de configuració:
 >
-> ![](./images/media/image39.png){width="6.267716535433071in"
-> height="1.2361111111111112in"}Li donem permissos i tal com es veu amb
+> ![Texto Descripción generada
+automáticamente](https://github.com/ahmedwaix/Practica-05/blob/main/imagenes/30.png)Li donem permissos i tal com es veu amb
 > el **ls** podem veure amb s'han aplicat els
-> canvis:![](./images/media/image47.png){width="6.267716535433071in"
-> height="0.5555555555555556in"}Habilitar la configuración del drupal i
+> canvis:![Texto Descripción generada
+automáticamente](https://github.com/ahmedwaix/Practica-05/blob/main/imagenes/31.png)Habilitar la configuración del drupal i
 > reiniciar el servei d'Apache2, per veure si el estat està actiu i que
 > tot funciona:
 >
-> ![](./images/media/image17.png){width="6.267716535433071in"
-> height="0.8055555555555556in"}
+> ![Texto Descripción generada
+automáticamente](https://github.com/ahmedwaix/Practica-05/blob/main/imagenes/32.png)
 >
-> ![](./images/media/image4.png){width="6.270833333333333in"
-> height="2.4662029746281715in"}
+> ![Texto Descripción generada
+automáticamente](https://github.com/ahmedwaix/Practica-05/blob/main/imagenes/33.png)
 >
 > Iniciem sessió en el nostre **mysql,** creem una base de dades, un nou
 > usuari **drupal,** i li donem privilegis de manera que pugui manegar
 > per la base de
-> dades![](./images/media/image51.png){width="6.267716535433071in"
-> height="2.2777777777777777in"}![](./images/media/image37.png){width="6.267716535433071in"
-> height="2.6666666666666665in"}Tornem a reiniciar el servei d'Apache i
+> dades![Texto Descripción generada
+automáticamente](https://github.com/ahmedwaix/Practica-05/blob/main/imagenes/34.png)![Texto Descripción generada
+automáticamente](https://github.com/ahmedwaix/Practica-05/blob/main/imagenes/35.png)Tornem a reiniciar el servei d'Apache i
 > tal com es veu, l'estat està actiu funcionant
-> correctament:![](./images/media/image34.png){width="6.267716535433071in"
-> height="3.388888888888889in"}Ens dirigim al navegador, per tal
+> correctament:![Texto Descripción generada
+automáticamente](https://github.com/ahmedwaix/Practica-05/blob/main/imagenes/36.png)Ens dirigim al navegador, per tal
 > d\'instal·lar el drupal via web, i elegim l'idioma
-> (**Español**)![](./images/media/image2.png){width="6.270833333333333in"
-> height="3.0698950131233596in"}Ara eleim el perfil d'instal·lació en el
+> (**Español**)![Texto Descripción generada
+automáticamente](https://github.com/ahmedwaix/Practica-05/blob/main/imagenes/37.png)Ara eleim el perfil d'instal·lació en el
 > nostre cas elegim el per defecte el
-> **estàndard**![](./images/media/image21.png){width="6.270833333333333in"
-> height="2.6841360454943133in"}
+> **estàndard**![Texto Descripción generada
+automáticamente](https://github.com/ahmedwaix/Practica-05/blob/main/imagenes/38.png)
 >
 > Connectem la base de dades amb les nostres creedencials:
 >
-> ![](./images/media/image44.png){width="6.270833333333333in"
-> height="2.673377077865267in"}
+> ![Texto Descripción generada
+automáticamente](https://github.com/ahmedwaix/Practica-05/blob/main/imagenes/39.png)
 >
 > Aquí podem veure com s'està instal·lant el
-> drupal:![](./images/media/image32.png){width="6.267716535433071in"
-> height="2.9027777777777777in"}
+> drupal:![Texto Descripción generada
+automáticamente](https://github.com/ahmedwaix/Practica-05/blob/main/imagenes/40.png)
 >
 > Al final de l'instal·lació ens mostra que s'ha instal·lat els arxiu de
-> traduccions![](./images/media/image27.png){width="6.270833333333333in"
-> height="3.03830271216098in"}Configurem la nostra pàgina posant el nom
+> traduccions![Texto Descripción generada
+automáticamente](https://github.com/ahmedwaix/Practica-05/blob/main/imagenes/41.png)Configurem la nostra pàgina posant el nom
 > que ha de tenir (**Drupal Ahmed**), també hem de posar el nostre email
 > per vincular de manera que s'envï la informació per
-> allà![](./images/media/image46.png){width="6.270833333333333in"
-> height="2.4921784776902887in"}
+> allà![Texto Descripción generada
+automáticamente](https://github.com/ahmedwaix/Practica-05/blob/main/imagenes/42.png)
 >
 > Fiquem el usuari i password que ha de tenir per accedir a la pàgina,
 > fiquem un e-mail, i com a informació addient fiquem el país i la zona
 > horària (**Madrid**)
 >
-> ![](./images/media/image35.png){width="5.864583333333333in"
-> height="8.98244750656168in"}
+> ![Texto Descripción generada
+automáticamente](https://github.com/ahmedwaix/Practica-05/blob/main/imagenes/43.png)
 >
 > Si accedim amb la ip elàstica al drupal podem veure que ens dona la
 > benvinguda:
 >
-> ![](./images/media/image22.png){width="6.267716535433071in"
-> height="2.861111111111111in"}
+> ![Texto Descripción generada
+automáticamente](https://github.com/ahmedwaix/Practica-05/blob/main/imagenes/44.png)
 
 6.  **Redireccionar el nom del teu domini a la ip elàstica de la teva instància EC2 comprova la propagació del dns amb https://dnschecker.org/**
 
 > Per reedireccionar el nom del domini a la ip elàstica, ens reedirigim
 > al **duckdns,** allà fiquem la ip elàstica, actualitzem la **ip**,
 > prement el botó taronja que es troba al
-> costat![](./images/media/image20.png){width="6.267716535433071in"
-> height="2.361111111111111in"}
+> costat![Texto Descripción generada
+automáticamente](https://github.com/ahmedwaix/Practica-05/blob/main/imagenes/45.png)
 >
 > Ara si anem a
 > **[[https://dnschecker.org/]{.underline}](https://dnschecker.org/),**
 > fiquem el nostre domini, veiem la IP elàstica al costat de cada país
 > de servidor DNS, bàsicament s'ha propagat pel
-> món![](./images/media/image30.png){width="6.270833333333333in"
-> height="2.7927602799650044in"}
+> món![Texto Descripción generada
+automáticamente](https://github.com/ahmedwaix/Practica-05/blob/main/imagenes/26.png)
 
 7.  **Comprovar que la teva pàgina web està accessible a través del teu domini**
 
