@@ -261,8 +261,7 @@ automáticamente](https://github.com/ahmedwaix/Practica-05/blob/main/imagenes/46
 7.  **Comprovar que la teva pàgina web està accessible a través del teu domini**
 
 > Per comprovar que la pàgina web és accesible per el meu domini fiquem:
-> [[https://ahmedbelhadi.duckdns.org/drupal/]{.underline}](https://ahmedbelhadi.duckdns.org/drupal/),
-> i veiem ens a donat la benvinguda
+> https://ahmedbelhadi.duckdns.org/drupal/, i veiem ens a donat la benvinguda
 >
 >![Texto Descripción generada
 automáticamente](https://github.com/ahmedwaix/Practica-05/blob/main/imagenes/47.png)
@@ -301,7 +300,7 @@ automáticamente](https://github.com/ahmedwaix/Practica-05/blob/main/imagenes/52
 
 > Video d'atac sniffing per wordpress accedint a la part privada del
 > gestor de continguts per HTTP:
-> [[https://youtu.be/n7SrVYy8X5A]{.underline}](https://youtu.be/n7SrVYy8X5A)
+> https://youtu.be/n7SrVYy8X5A
 >
 > *Wireshark pot capturar tot el trànsit de xarxa, les sol·licituds i
 > respostes d'HTTP, tal com es veu en el video el nom d'usuari i el
@@ -311,7 +310,7 @@ automáticamente](https://github.com/ahmedwaix/Practica-05/blob/main/imagenes/52
 >
 > Video d'atac sniffing per wordpress accedint a la part privada del
 > gestor de continguts per HTTPS:
-> [[https://youtu.be/0IsH9kMb2Wo]{.underline}](https://youtu.be/0IsH9kMb2Wo)
+> https://youtu.be/0IsH9kMb2Wo
 >
 > *Wireshark no pot capturar directament el contingut del trànsit
 > xifrat, ja que HTTPS utilitza xifratge SSL/TLS per protegir les
@@ -329,8 +328,8 @@ administrant Drupal (sistema de gestió de continguts multipropósit).
 
 # **Bibliografia**
 
--   [[https://comoinstalar.me/como-instalar-drupal-en-ubuntu-20-04-lts/]
+-   https://comoinstalar.me/como-instalar-drupal-en-ubuntu-20-04-lts/
 
--   [[https://www.digitalocean.com/community/tutorials/how-to-secure-apache-with-let-s-encrypt-on-ubuntu-20-04-es]
+-   https://www.digitalocean.com/community/tutorials/how-to-secure-apache-with-let-s-encrypt-on-ubuntu-20-04-es
 
--   [[https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mysql-php-lamp-stack-on-ubuntu-20-04-es]
+-   https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mysql-php-lamp-stack-on-ubuntu-20-04-es
