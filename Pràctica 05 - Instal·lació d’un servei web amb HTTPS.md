@@ -264,37 +264,37 @@ automáticamente](https://github.com/ahmedwaix/Practica-05/blob/main/imagenes/46
 > [[https://ahmedbelhadi.duckdns.org/drupal/]{.underline}](https://ahmedbelhadi.duckdns.org/drupal/),
 > i veiem ens a donat la benvinguda
 >
-> ![](./images/media/image16.png){width="6.267716535433071in"
-> height="3.125in"}
+>[Texto Descripción generada
+automáticamente](https://github.com/ahmedwaix/Practica-05/blob/main/imagenes/47.png)
 
 8.  **Comprobar que es pot accedeir al CMS mitjançant HTTPs i que el certificat és vàlid**
 
 > La certificació la fem mitjançant certbot, i és per allò que
 > instal·lem els següent paquet **snapd (**dimoni**)**
 >
-> ![](./images/media/image10.png){width="6.267716535433071in"
-> height="1.7222222222222223in"}
+> [Texto Descripción generada
+automáticamente](https://github.com/ahmedwaix/Practica-05/blob/main/imagenes/48.png)
 >
 > Fem un enllaç simbòlic **certbot,** al directori /usr/bin que apunta a
 > /snap/bin/certbotlace simbólico del certbot, permetent accedir al
 > programa Certbot utilizat per la gestió de certificats SSL/TLS, a
 > partit de /usr/bin/certbot.
 >
-> ![](./images/media/image7.png){width="6.267716535433071in"
-> height="0.25in"}
+> [Texto Descripción generada
+automáticamente](https://github.com/ahmedwaix/Practica-05/blob/main/imagenes/49.png)
 >
 > Ara, ja podriem executar el programa **certbot,** utilitzant el plugin
 > d'Apache, i així configurant de manera automàtica el certificat
 > SSL/TLS
 >
-> ![](./images/media/image31.png){width="6.270833333333333in"
-> height="4.88239501312336in"}![](./images/media/image8.png){width="6.267716535433071in"
-> height="1.8194444444444444in"}Tal com es veu si reiniciem la pàgina
+> [Texto Descripción generada
+automáticamente](https://github.com/ahmedwaix/Practica-05/blob/main/imagenes/50.png)[Texto Descripción generada
+automáticamente](https://github.com/ahmedwaix/Practica-05/blob/main/imagenes/51.png)Tal com es veu si reiniciem la pàgina
 > veiem que s'està utilitzant la certificació que acabem de crear
 > mitjançant el certbot:
 >
-> ![](./images/media/image9.png){width="6.267716535433071in"
-> height="1.8055555555555556in"}
+> [Texto Descripción generada
+automáticamente](https://github.com/ahmedwaix/Practica-05/blob/main/imagenes/52.png)
 
 9.  **Realitza un atac de sniffing per al wordpress d'un company accedint a la part privada del gestor de continguts demostrant que quan s'accedeix mitjançant http es pot capturar l'user i el password i si es fa accedint amb https no se és vulnerable a aquest atac.**
 
