@@ -264,7 +264,7 @@ automáticamente](https://github.com/ahmedwaix/Practica-05/blob/main/imagenes/46
 > [[https://ahmedbelhadi.duckdns.org/drupal/]{.underline}](https://ahmedbelhadi.duckdns.org/drupal/),
 > i veiem ens a donat la benvinguda
 >
->[Texto Descripción generada
+>![Texto Descripción generada
 automáticamente](https://github.com/ahmedwaix/Practica-05/blob/main/imagenes/47.png)
 
 8.  **Comprobar que es pot accedeir al CMS mitjançant HTTPs i que el certificat és vàlid**
@@ -272,7 +272,7 @@ automáticamente](https://github.com/ahmedwaix/Practica-05/blob/main/imagenes/47
 > La certificació la fem mitjançant certbot, i és per allò que
 > instal·lem els següent paquet **snapd (**dimoni**)**
 >
-> [Texto Descripción generada
+> ![Texto Descripción generada
 automáticamente](https://github.com/ahmedwaix/Practica-05/blob/main/imagenes/48.png)
 >
 > Fem un enllaç simbòlic **certbot,** al directori /usr/bin que apunta a
@@ -280,20 +280,20 @@ automáticamente](https://github.com/ahmedwaix/Practica-05/blob/main/imagenes/48
 > programa Certbot utilizat per la gestió de certificats SSL/TLS, a
 > partit de /usr/bin/certbot.
 >
-> [Texto Descripción generada
+> ![Texto Descripción generada
 automáticamente](https://github.com/ahmedwaix/Practica-05/blob/main/imagenes/49.png)
 >
 > Ara, ja podriem executar el programa **certbot,** utilitzant el plugin
 > d'Apache, i així configurant de manera automàtica el certificat
 > SSL/TLS
 >
-> [Texto Descripción generada
-automáticamente](https://github.com/ahmedwaix/Practica-05/blob/main/imagenes/50.png)[Texto Descripción generada
+> ![Texto Descripción generada
+automáticamente](https://github.com/ahmedwaix/Practica-05/blob/main/imagenes/50.png)![Texto Descripción generada
 automáticamente](https://github.com/ahmedwaix/Practica-05/blob/main/imagenes/51.png)Tal com es veu si reiniciem la pàgina
 > veiem que s'està utilitzant la certificació que acabem de crear
 > mitjançant el certbot:
 >
-> [Texto Descripción generada
+> ![Texto Descripción generada
 automáticamente](https://github.com/ahmedwaix/Practica-05/blob/main/imagenes/52.png)
 
 9.  **Realitza un atac de sniffing per al wordpress d'un company accedint a la part privada del gestor de continguts demostrant que quan s'accedeix mitjançant http es pot capturar l'user i el password i si es fa accedint amb https no se és vulnerable a aquest atac.**
