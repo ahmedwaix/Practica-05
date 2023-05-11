@@ -1,7 +1,4 @@
-![](./images/media/image5.png){width="4.166666666666667in"
-height="1.9791666666666667in"}
-
-**Pràctica 05**
+# **Exercicis**
 
 Instal·lació d'un servei web amb HTTPS
 
@@ -29,18 +26,17 @@ sub-domini a DuckDNS, instal·lar Drupal i solucionar problemes
 relacionats amb la configuració. També tocarem temes com l\'enllaç
 simbòlic i el protocol HTTPS i com fer un atack sniffing...
 
-![](./images/media/image36.png){width="6.267716535433071in"
-height="2.611111111111111in"}
+
+![Texto Descripción generada
+automáticamente](https://github.com/ahmedwaix/Practica-05/blob/main/imagenes/1.png)
 
 # 
 
 # **Exercicis**
 
-1.  **Instal·lar una instància EC2 anomenada webSegura ubuntu server
-    > (però es pot triar la que vulgeu)**
+1.  **Instal·lar una instància EC2 anomenada webSegura ubuntu server (però es pot triar la que vulgeu)**
 
-2.  **Assignar el security group per a que permeti el trànsit de dades
-    > pels ports HTTP i HTTPS**
+2.  **Assignar el security group per a que permeti el trànsit de dades pels ports HTTP i HTTPS**
 
 > Una vegada configurat el AWS Academy i activat, ens dirigim a la
 > següent ruta, per tal d'instal·lar una instància EC2, amb una imatge
@@ -52,8 +48,8 @@ height="2.611111111111111in"}
 > Seguidament com a S.O, elegim **Ubuntu**, de tipus **Ubuntu Server
 > 22.04 TLS**, amb una arquitectura de 64 bits
 >
-> ![](./images/media/image15.png){width="6.270833333333333in"
-> height="5.929773622047244in"}
+> ![Texto Descripción generada
+automáticamente](https://github.com/ahmedwaix/Practica-05/blob/main/imagenes/2.png)
 >
 > El cos de la instància agafo en el meu cas la tipus **micro**, que
 > conté 1 CPU amb 1GB de RAM, però hem de pensar que quan més gran sigui
@@ -61,62 +57,62 @@ height="2.611111111111111in"}
 > ja teniem, que la utilitzarem per el nostre Putty, ha d'estar en
 > format RSA, i amb extensió .pem
 >
-> ![](./images/media/image6.png){width="6.270833333333333in"
-> height="3.488748906386702in"}
+>![Texto Descripción generada
+automáticamente](https://github.com/ahmedwaix/Practica-05/blob/main/imagenes/3.png)
 >
 > Configurem la xarxa, i creem un nou Security group, de manera que
 > farem que permetí el tràfic tant per **SSH**, per **HTTP** com per
 > **HTTP**, que el utilitzarem posteriorment
 >
-> ![](./images/media/image25.png){width="5.739583333333333in"
-> height="4.434395231846019in"}
+![Texto Descripción generada
+automáticamente](https://github.com/ahmedwaix/Practica-05/blob/main/imagenes/4.png)
 >
 > En quant al emmagatzematge li fiquem 8GB, i I la nostre instància ja
 > s'hauria creat correctament:
 >
-> ![](./images/media/image29.png){width="6.270833333333333in"
-> height="3.090728346456693in"}
+>![Texto Descripción generada
+automáticamente](https://github.com/ahmedwaix/Practica-05/blob/main/imagenes/5.png)
 
 3.  **Assignar-l\'hi una ip elàstica XX.XX.XX.XX**
 
 > Ens anem a l'apartat de **Dirreccions IP elàstiques \> Assignar la
 > dirrecció IP elàstica,** per tal d\'assignar-ne una:
 >
-> ![](./images/media/image43.png){width="6.25in"
-> height="4.319811898512686in"}
+>![Texto Descripción generada
+automáticamente](https://github.com/ahmedwaix/Practica-05/blob/main/imagenes/6.png)
 >
 > Quan ens la genera, ara hem de asociar-la a una instància, i és allò
 > que elegim la nostra instància:
 >
-> ![](./images/media/image42.png){width="6.270833333333333in"
-> height="4.492864173228346in"}
+![Texto Descripción generada
+automáticamente](https://github.com/ahmedwaix/Practica-05/blob/main/imagenes/7.png)
 >
 > Tal com es veu s'ha associat correctament la ip elástica a la
 > instància **webSegura:**
 >
-> ![](./images/media/image33.png){width="6.267716535433071in"
-> height="0.6111111111111112in"}
+![Texto Descripción generada
+automáticamente](https://github.com/ahmedwaix/Practica-05/blob/main/imagenes/8.png)
 >
-> ![](./images/media/image11.png){width="6.267716535433071in"
-> height="2.1805555555555554in"}
+![Texto Descripción generada
+automáticamente](https://github.com/ahmedwaix/Practica-05/blob/main/imagenes/9.png)
 
 4.  **Crear un subdomini a duckdns amb el teu correu de l'itb el nom del
     > teu domini ha de ser el teu nom rafaelcuestas.duckdns.org**
 
 > Per crear el subdomini a duckdns, amb el nostre correu del itb, primer
 > hem de iniciar sessió a
-> duckdns:![](./images/media/image23.png){width="6.270833333333333in"
-> height="2.769998906386702in"}Ara, en l'apartat de **dominis** quan
+> duckdns:![Texto Descripción generada
+automáticamente](https://github.com/ahmedwaix/Practica-05/blob/main/imagenes/10.png) Ara, en l'apartat de **dominis** quan
 > accedim, hem de ficar **ahmedbelhadi,** que aquest sera el nostre
 > subdomini:
 > [[http://ahmedbelhadi.duckdns.org]{.underline}](http://ahmedbelhadi.duckdns.org)
-> ![](./images/media/image41.png){width="6.270833333333333in"
-> height="2.598875765529309in"}Tal com es veu, ens surt un missatge que
+> ![Texto Descripción generada
+automáticamente](https://github.com/ahmedwaix/Practica-05/blob/main/imagenes/11.png)Tal com es veu, ens surt un missatge que
 > el ds'ha afegit al nostre
-> compte:![](./images/media/image3.png){width="6.270833333333333in"
-> height="1.7651990376202975in"}Ens a generat una **IP** random que ell
-> a escollit:![](./images/media/image53.png){width="6.267716535433071in"
-> height="0.5555555555555556in"}
+> compte:![Texto Descripción generada
+automáticamente](https://github.com/ahmedwaix/Practica-05/blob/main/imagenes/12.png)Ens a generat una **IP** random que ell
+> a escollit:![Texto Descripción generada
+automáticamente](https://github.com/ahmedwaix/Practica-05/blob/main/imagenes/13.png)
 
 5.  **Instal·la el drupal seguint les instruccions
     > https://comoinstalar.me/como-instalar-drupal-en-ubuntu-20-04-lts/**
@@ -124,39 +120,40 @@ height="2.611111111111111in"}
 > Primer, per instal·lar el drupal hem d'instal·lar, LAMP (linux,
 > apache, mysql, php) i procedim a fer-ho executant la següent comanda:
 >
-> ![](./images/media/image19.png){width="6.267716535433071in"
-> height="0.3333333333333333in"}![](./images/media/image48.png){width="6.267716535433071in"
-> height="0.3333333333333333in"}Ara instal·lem MySQL, hi ho farem des de
+> ![Texto Descripción generada
+automáticamente](https://github.com/ahmedwaix/Practica-05/blob/main/imagenes/14.png)![Texto Descripción generada
+automáticamente](https://github.com/ahmedwaix/Practica-05/blob/main/imagenes/15.png)Ara instal·lem MySQL, hi ho farem des de
 > la terminal mitjançant wget partint que hem de reedireccionar l'enllaç
 > on està el MySQL, en el navegador.
-> ![](./images/media/image50.png){width="6.270833333333333in"
-> height="2.810980971128609in"}Instal·lem altres paquets necessaris\...
-> ![](./images/media/image14.png){width="6.267716535433071in"
-> height="1.2916666666666667in"} Elegirem que el volem en format Server
+> ![Texto Descripción generada
+automáticamente](https://github.com/ahmedwaix/Practica-05/blob/main/imagenes/16.png)Instal·lem altres paquets necessaris\...
+>![Texto Descripción generada
+automáticamente](https://github.com/ahmedwaix/Practica-05/blob/main/imagenes/17.png)Elegirem que el volem en format Server
 > tal com està el nostre
-> Ubuntu![](./images/media/image28.png){width="6.267716535433071in"
-> height="1.375in"} Elegim la versió del mysql
-> ![](./images/media/image38.png){width="6.267716535433071in"
-> height="1.1527777777777777in"}Per últim faltaria instal·lar el
+> Ubuntu![Texto Descripción generada
+automáticamente](https://github.com/ahmedwaix/Practica-05/blob/main/imagenes/18.png) Elegim la versió del mysql
+> ![Texto Descripción generada
+automáticamente](https://github.com/ahmedwaix/Practica-05/blob/main/imagenes/19.png)Per últim faltaria instal·lar el
 > mysql-server en el nostre Ubuntui assignar-li una contrasenya a root,
 > en mode encryptat
 >
-> ![](./images/media/image1.png){width="6.267716535433071in"
-> height="0.2916666666666667in"}
-> ![](./images/media/image40.png){width="6.267716535433071in"
-> height="0.8472222222222222in"}![](./images/media/image26.png){width="6.267716535433071in"
-> height="0.9027777777777778in"}![](./images/media/image49.png){width="6.267716535433071in"
-> height="1.625in"}Habilitem el nostre mysql i veiem el
-> estat![](./images/media/image13.png){width="6.267716535433071in"
-> height="2.6666666666666665in"}
+> ![Texto Descripción generada
+automáticamente](https://github.com/ahmedwaix/Practica-05/blob/main/imagenes/20.png)![Texto Descripción generada
+automáticamente](https://github.com/ahmedwaix/Practica-05/blob/main/imagenes/21.png)
+![Texto Descripción generada
+automáticamente](https://github.com/ahmedwaix/Practica-05/blob/main/imagenes/22.png)![Texto Descripción generada
+automáticamente](https://github.com/ahmedwaix/Practica-05/blob/main/imagenes/23.png)![Texto Descripción generada
+automáticamente](https://github.com/ahmedwaix/Practica-05/blob/main/imagenes/24.png)Habilitem el nostre mysql i veiem el
+> estat![Texto Descripción generada
+automáticamente](https://github.com/ahmedwaix/Practica-05/blob/main/imagenes/25.png)
 >
 > Ara si processem a instalar el drupal, mitançant wget per terminal:
 >
-> ![](./images/media/image45.png){width="6.267716535433071in"
-> height="0.3888888888888889in"}Creem una carpeta que es alla on el
+> ![Texto Descripción generada
+automáticamente](https://github.com/ahmedwaix/Practica-05/blob/main/imagenes/126.png)Creem una carpeta que es alla on el
 > descomprimirem el paquet instal·lat amb el
-> tar![](./images/media/image52.png){width="6.267716535433071in"
-> height="0.3611111111111111in"}
+> tar![Texto Descripción generada
+automáticamente](https://github.com/ahmedwaix/Practica-05/blob/main/imagenes/27.png)
 >
 > Creem un link simbòlic anomenat drupal, appuntant al directori
 > **drupal-10.0.9,** canviem el propietari, i com també els
