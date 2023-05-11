@@ -149,6 +149,7 @@ automáticamente](https://github.com/ahmedwaix/Practica-05/blob/main/imagenes/21
 automáticamente](https://github.com/ahmedwaix/Practica-05/blob/main/imagenes/22.png)![Texto Descripción generada
 automáticamente](https://github.com/ahmedwaix/Practica-05/blob/main/imagenes/23.png)Habilitem el nostre mysql i veiem el estat ![Texto Descripción generada
 automáticamente](https://github.com/ahmedwaix/Practica-05/blob/main/imagenes/24.png)
+
 > Ara si processem a instalar el drupal, mitançant wget per terminal:
 ![Texto Descripción generada
 automáticamente](https://github.com/ahmedwaix/Practica-05/blob/main/imagenes/25.png)
@@ -168,14 +169,18 @@ automáticamente](https://github.com/ahmedwaix/Practica-05/blob/main/imagenes/28
 > que mostrem per imatge per tal que és pugui navegar per el navegador a
 > partir del
 > alias:![Texto Descripción generada
-automáticamente](https://github.com/ahmedwaix/Practica-05/blob/main/imagenes/29.png)També hem de copia l'arxiu de
+automáticamente](https://github.com/ahmedwaix/Practica-05/blob/main/imagenes/29.png)
+
+> També hem de copia l'arxiu de
 > configuració predeterminat a un nou arxiu de configuració:
 >
 > ![Texto Descripción generada
-automáticamente](https://github.com/ahmedwaix/Practica-05/blob/main/imagenes/30.png)Li donem permissos i tal com es veu amb
+automáticamente](https://github.com/ahmedwaix/Practica-05/blob/main/imagenes/30.png)
+>Li donem permissos i tal com es veu amb
 > el **ls** podem veure amb s'han aplicat els
 > canvis:![Texto Descripción generada
-automáticamente](https://github.com/ahmedwaix/Practica-05/blob/main/imagenes/31.png)Habilitar la configuración del drupal i
+automáticamente](https://github.com/ahmedwaix/Practica-05/blob/main/imagenes/31.png)
+>Habilitar la configuración del drupal i
 > reiniciar el servei d'Apache2, per veure si el estat està actiu i que
 > tot funciona:
 >
@@ -190,13 +195,16 @@ automáticamente](https://github.com/ahmedwaix/Practica-05/blob/main/imagenes/33
 > per la base de
 > dades![Texto Descripción generada
 automáticamente](https://github.com/ahmedwaix/Practica-05/blob/main/imagenes/34.png)![Texto Descripción generada
-automáticamente](https://github.com/ahmedwaix/Practica-05/blob/main/imagenes/35.png)Tornem a reiniciar el servei d'Apache i
+automáticamente](https://github.com/ahmedwaix/Practica-05/blob/main/imagenes/35.png)
+> Tornem a reiniciar el servei d'Apache i
 > tal com es veu, l'estat està actiu funcionant
 > correctament:![Texto Descripción generada
-automáticamente](https://github.com/ahmedwaix/Practica-05/blob/main/imagenes/36.png)Ens dirigim al navegador, per tal
+automáticamente](https://github.com/ahmedwaix/Practica-05/blob/main/imagenes/36.png)
+> Ens dirigim al navegador, per tal
 > d\'instal·lar el drupal via web, i elegim l'idioma
 > (**Español**)![Texto Descripción generada
-automáticamente](https://github.com/ahmedwaix/Practica-05/blob/main/imagenes/37.png)Ara eleim el perfil d'instal·lació en el
+automáticamente](https://github.com/ahmedwaix/Practica-05/blob/main/imagenes/37.png)
+> Ara elegim el perfil d'instal·lació, en el
 > nostre cas elegim el per defecte el
 > **estàndard**![Texto Descripción generada
 automáticamente](https://github.com/ahmedwaix/Practica-05/blob/main/imagenes/38.png)
@@ -212,7 +220,8 @@ automáticamente](https://github.com/ahmedwaix/Practica-05/blob/main/imagenes/40
 >
 > Al final de l'instal·lació ens mostra que s'ha instal·lat els arxiu de
 > traduccions![Texto Descripción generada
-automáticamente](https://github.com/ahmedwaix/Practica-05/blob/main/imagenes/41.png)Configurem la nostra pàgina posant el nom
+automáticamente](https://github.com/ahmedwaix/Practica-05/blob/main/imagenes/41.png)
+> Configurem la nostra pàgina posant el nom
 > que ha de tenir (**Drupal Ahmed**), també hem de posar el nostre email
 > per vincular de manera que s'envï la informació per
 > allà![Texto Descripción generada
@@ -240,11 +249,10 @@ automáticamente](https://github.com/ahmedwaix/Practica-05/blob/main/imagenes/44
 automáticamente](https://github.com/ahmedwaix/Practica-05/blob/main/imagenes/45.png)
 >
 > Ara si anem a
-> **[[https://dnschecker.org/]{.underline}](https://dnschecker.org/),**
-> fiquem el nostre domini, veiem la IP elàstica al costat de cada país
+> **https://dnschecker.org/**, fiquem el nostre domini, veiem la IP elàstica al costat de cada país
 > de servidor DNS, bàsicament s'ha propagat pel
 > món![Texto Descripción generada
-automáticamente](https://github.com/ahmedwaix/Practica-05/blob/main/imagenes/26.png)
+automáticamente](https://github.com/ahmedwaix/Practica-05/blob/main/imagenes/46.png)
 
 7.  **Comprovar que la teva pàgina web està accessible a través del teu domini**
 
