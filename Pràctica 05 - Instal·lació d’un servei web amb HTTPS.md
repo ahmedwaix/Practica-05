@@ -96,8 +96,7 @@ automáticamente](https://github.com/ahmedwaix/Practica-05/blob/main/imagenes/8.
 ![Texto Descripción generada
 automáticamente](https://github.com/ahmedwaix/Practica-05/blob/main/imagenes/9.png)
 
-4.  **Crear un subdomini a duckdns amb el teu correu de l'itb el nom del
-    > teu domini ha de ser el teu nom rafaelcuestas.duckdns.org**
+4.  **Crear un subdomini a duckdns amb el teu correu de l'itb el nom del teu domini ha de ser el teu nom rafaelcuestas.duckdns.org**
 
 > Per crear el subdomini a duckdns, amb el nostre correu del itb, primer
 > hem de iniciar sessió a
@@ -114,8 +113,7 @@ automáticamente](https://github.com/ahmedwaix/Practica-05/blob/main/imagenes/12
 > a escollit:![Texto Descripción generada
 automáticamente](https://github.com/ahmedwaix/Practica-05/blob/main/imagenes/13.png)
 
-5.  **Instal·la el drupal seguint les instruccions
-    > https://comoinstalar.me/como-instalar-drupal-en-ubuntu-20-04-lts/**
+5.  **Instal·la el drupal seguint les instruccions https://comoinstalar.me/como-instalar-drupal-en-ubuntu-20-04-lts/**
 
 > Primer, per instal·lar el drupal hem d'instal·lar, LAMP (linux,
 > apache, mysql, php) i procedim a fer-ho executant la següent comanda:
@@ -232,9 +230,7 @@ automáticamente](https://github.com/ahmedwaix/Practica-05/blob/main/imagenes/27
 > ![](./images/media/image22.png){width="6.267716535433071in"
 > height="2.861111111111111in"}
 
-6.  **Redireccionar el nom del teu domini a la ip elàstica de la teva
-    > instància EC2 comprova la propagació del dns amb
-    > https://dnschecker.org/**
+6.  **Redireccionar el nom del teu domini a la ip elàstica de la teva instància EC2 comprova la propagació del dns amb https://dnschecker.org/**
 
 > Per reedireccionar el nom del domini a la ip elàstica, ens reedirigim
 > al **duckdns,** allà fiquem la ip elàstica, actualitzem la **ip**,
@@ -249,8 +245,7 @@ automáticamente](https://github.com/ahmedwaix/Practica-05/blob/main/imagenes/27
 > món![](./images/media/image30.png){width="6.270833333333333in"
 > height="2.7927602799650044in"}
 
-7.  **Comprovar que la teva pàgina web està accessible a través del teu
-    > domini**
+7.  **Comprovar que la teva pàgina web està accessible a través del teu domini**
 
 > Per comprovar que la pàgina web és accesible per el meu domini fiquem:
 > [[https://ahmedbelhadi.duckdns.org/drupal/]{.underline}](https://ahmedbelhadi.duckdns.org/drupal/),
@@ -259,8 +254,7 @@ automáticamente](https://github.com/ahmedwaix/Practica-05/blob/main/imagenes/27
 > ![](./images/media/image16.png){width="6.267716535433071in"
 > height="3.125in"}
 
-8.  **Comprobar que es pot accedeir al CMS mitjançant HTTPs i que el
-    > certificat és vàlid**
+8.  **Comprobar que es pot accedeir al CMS mitjançant HTTPs i que el certificat és vàlid**
 
 > La certificació la fem mitjançant certbot, i és per allò que
 > instal·lem els següent paquet **snapd (**dimoni**)**
@@ -289,11 +283,7 @@ automáticamente](https://github.com/ahmedwaix/Practica-05/blob/main/imagenes/27
 > ![](./images/media/image9.png){width="6.267716535433071in"
 > height="1.8055555555555556in"}
 
-9.  **Realitza un atac de sniffing per al wordpress d'un company
-    > accedint a la part privada del gestor de continguts demostrant que
-    > quan s'accedeix mitjançant http es pot capturar l'user i el
-    > password i si es fa accedint amb https no se és vulnerable a
-    > aquest atac.**
+9.  **Realitza un atac de sniffing per al wordpress d'un company accedint a la part privada del gestor de continguts demostrant que quan s'accedeix mitjançant http es pot capturar l'user i el password i si es fa accedint amb https no se és vulnerable a aquest atac.**
 
 > Video d'atac sniffing per wordpress accedint a la part privada del
 > gestor de continguts per HTTP:
