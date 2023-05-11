@@ -147,22 +147,18 @@ automáticamente](https://github.com/ahmedwaix/Practica-05/blob/main/imagenes/20
 automáticamente](https://github.com/ahmedwaix/Practica-05/blob/main/imagenes/21.png)
 ![Texto Descripción generada
 automáticamente](https://github.com/ahmedwaix/Practica-05/blob/main/imagenes/22.png)![Texto Descripción generada
-automáticamente](https://github.com/ahmedwaix/Practica-05/blob/main/imagenes/23.png)![Texto Descripción generada
-automáticamente](https://github.com/ahmedwaix/Practica-05/blob/main/imagenes/24.png)Habilitem el nostre mysql i veiem el
-> estat![Texto Descripción generada
+automáticamente](https://github.com/ahmedwaix/Practica-05/blob/main/imagenes/23.png)Habilitem el nostre mysql i veiem el estat ![Texto Descripción generada
+automáticamente](https://github.com/ahmedwaix/Practica-05/blob/main/imagenes/24.png)Ara si processem a instalar el drupal, mitançant wget per terminal:
+![Texto Descripción generada
 automáticamente](https://github.com/ahmedwaix/Practica-05/blob/main/imagenes/25.png)
 >
-> Ara si processem a instalar el drupal, mitançant wget per terminal:
->
 > ![Texto Descripción generada
-automáticamente](https://github.com/ahmedwaix/Practica-05/blob/main/imagenes/126.png)Creem una carpeta que es alla on el
+automáticamente](https://github.com/ahmedwaix/Practica-05/blob/main/imagenes/26.png)Creem una carpeta que es alla on el
 > descomprimirem el paquet instal·lat amb el
 > tar![Texto Descripción generada
 automáticamente](https://github.com/ahmedwaix/Practica-05/blob/main/imagenes/27.png)
 >
-> Creem un link simbòlic anomenat drupal, appuntant al directori
-> **drupal-10.0.9,** canviem el propietari, i com també els
-> permisos![](./images/media/image12.png){width="6.267716535433071in"
+> Creem un link simbòlic anomenat drupal, appuntant al directori **drupal-10.0.9,** canviem el propietari, i com també els permisos![](./images/media/image12.png){width="6.267716535433071in"
 > height="0.5277777777777778in"}
 >
 > Activem aquells mòduls que no s'activen per defecte a apache
