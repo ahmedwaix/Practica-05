@@ -45,8 +45,7 @@ automáticamente](https://github.com/ahmedwaix/Practica-05/blob/main/imagenes/1.
 > Premem sobre Lanzar instancia, per tal de crear una instància, i li
 > afegim el nom de "**webSegura**".
 >
-> Seguidament com a S.O, elegim **Ubuntu**, de tipus **Ubuntu Server
-> 22.04 TLS**, amb una arquitectura de 64 bits
+> Seguidament com a S.O, elegim **Ubuntu**, de tipus **Ubuntu Server 22.04 TLS**, amb una arquitectura de 64 bits
 >
 > ![Texto Descripción generada
 automáticamente](https://github.com/ahmedwaix/Practica-05/blob/main/imagenes/2.png)
