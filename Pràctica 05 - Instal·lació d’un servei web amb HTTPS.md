@@ -329,8 +329,8 @@ administrant Drupal (sistema de gestió de continguts multipropósit).
 
 # **Bibliografia**
 
--   [[https://comoinstalar.me/como-instalar-drupal-en-ubuntu-20-04-lts/]{.underline}](https://comoinstalar.me/como-instalar-drupal-en-ubuntu-20-04-lts/)
+-   [[https://comoinstalar.me/como-instalar-drupal-en-ubuntu-20-04-lts/]
 
--   [[https://www.digitalocean.com/community/tutorials/how-to-secure-apache-with-let-s-encrypt-on-ubuntu-20-04-es]{.underline}](https://www.digitalocean.com/community/tutorials/how-to-secure-apache-with-let-s-encrypt-on-ubuntu-20-04-es)
+-   [[https://www.digitalocean.com/community/tutorials/how-to-secure-apache-with-let-s-encrypt-on-ubuntu-20-04-es]
 
--   [[https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mysql-php-lamp-stack-on-ubuntu-20-04-es]{.underline}](https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mysql-php-lamp-stack-on-ubuntu-20-04-es)
+-   [[https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mysql-php-lamp-stack-on-ubuntu-20-04-es]
