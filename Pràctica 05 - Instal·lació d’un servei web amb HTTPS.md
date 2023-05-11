@@ -103,8 +103,7 @@ automáticamente](https://github.com/ahmedwaix/Practica-05/blob/main/imagenes/9.
 automáticamente](https://github.com/ahmedwaix/Practica-05/blob/main/imagenes/10.png) 
 
 > Ara, en l'apartat de **dominis** quan
-> accedim, hem de ficar **ahmedbelhadi,** que aquest sera el nostre
-> subdomini: **http://ahmedbelhadi.duckdns.org/**
+> accedim, hem de ficar **ahmedbelhadi,** que aquest sera el nostre subdomini: **http://ahmedbelhadi.duckdns.org/**
 > ![Texto Descripción generada
 automáticamente](https://github.com/ahmedwaix/Practica-05/blob/main/imagenes/11.png)
 
