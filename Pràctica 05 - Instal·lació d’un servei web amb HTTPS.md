@@ -176,10 +176,14 @@ automáticamente](https://github.com/ahmedwaix/Practica-05/blob/main/imagenes/29
 >
 > ![Texto Descripción generada
 automáticamente](https://github.com/ahmedwaix/Practica-05/blob/main/imagenes/30.png)
+
+
 > Li donem permissos i tal com es veu amb
 > el **ls** podem veure amb s'han aplicat els
 > canvis:![Texto Descripción generada
 automáticamente](https://github.com/ahmedwaix/Practica-05/blob/main/imagenes/31.png)
+
+
 > Habilitar la configuración del drupal i
 > reiniciar el servei d'Apache2, per veure si el estat està actiu i que
 > tot funciona:
@@ -221,7 +225,8 @@ automáticamente](https://github.com/ahmedwaix/Practica-05/blob/main/imagenes/40
 > Al final de l'instal·lació ens mostra que s'ha instal·lat els arxiu de
 > traduccions![Texto Descripción generada
 automáticamente](https://github.com/ahmedwaix/Practica-05/blob/main/imagenes/41.png)
->
+
+
 > Configurem la nostra pàgina posant el nom que ha de tenir (**Drupal Ahmed**), també hem de posar el nostre email per vincular de manera que s'envï la informació per
 > allà![Texto Descripción generada
 automáticamente](https://github.com/ahmedwaix/Practica-05/blob/main/imagenes/42.png)
