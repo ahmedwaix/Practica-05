@@ -124,7 +124,8 @@ automáticamente](https://github.com/ahmedwaix/Practica-05/blob/main/imagenes/13
 > ![Texto Descripción generada
 automáticamente](https://github.com/ahmedwaix/Practica-05/blob/main/imagenes/14.png)![Texto Descripción generada
 automáticamente](https://github.com/ahmedwaix/Practica-05/blob/main/imagenes/15.png)
-Ara instal·lem MySQL, hi ho farem des de
+
+> Ara instal·lem MySQL, hi ho farem des de
 > la terminal mitjançant wget partint que hem de reedireccionar l'enllaç
 > on està el MySQL, en el navegador.
 > ![Texto Descripción generada
