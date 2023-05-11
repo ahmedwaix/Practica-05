@@ -289,8 +289,8 @@ automáticamente](https://github.com/ahmedwaix/Practica-05/blob/main/imagenes/49
 >
 > ![Texto Descripción generada
 automáticamente](https://github.com/ahmedwaix/Practica-05/blob/main/imagenes/50.png)![Texto Descripción generada
-automáticamente](https://github.com/ahmedwaix/Practica-05/blob/main/imagenes/51.png)Tal com es veu si reiniciem la pàgina
-> veiem que s'està utilitzant la certificació que acabem de crear
+automáticamente](https://github.com/ahmedwaix/Practica-05/blob/main/imagenes/51.png)
+> Tal com es veu si reiniciem la pàgina veiem que s'està utilitzant la certificació que acabem de crear
 > mitjançant el certbot:
 >
 > ![Texto Descripción generada
