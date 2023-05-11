@@ -100,17 +100,20 @@ automáticamente](https://github.com/ahmedwaix/Practica-05/blob/main/imagenes/9.
 
 > Per crear el subdomini a duckdns, amb el nostre correu del itb, primer
 > hem de iniciar sessió a
-> duckdns:![Texto Descripción generada
-automáticamente](https://github.com/ahmedwaix/Practica-05/blob/main/imagenes/10.png) Ara, en l'apartat de **dominis** quan
-> accedim, hem de ficar **ahmedbelhadi,** que aquest sera el nostre
-> subdomini:
-> [[http://ahmedbelhadi.duckdns.org]{.underline}](http://ahmedbelhadi.duckdns.org)
+> duckdns: 
 > ![Texto Descripción generada
-automáticamente](https://github.com/ahmedwaix/Practica-05/blob/main/imagenes/11.png)Tal com es veu, ens surt un missatge que
-> el ds'ha afegit al nostre
-> compte:![Texto Descripción generada
-automáticamente](https://github.com/ahmedwaix/Practica-05/blob/main/imagenes/12.png)Ens a generat una **IP** random que ell
-> a escollit:![Texto Descripción generada
+automáticamente](https://github.com/ahmedwaix/Practica-05/blob/main/imagenes/10.png) 
+
+> Ara, en l'apartat de **dominis** quan
+> accedim, hem de ficar **ahmedbelhadi,** que aquest sera el nostre
+> subdomini: **http://ahmedbelhadi.duckdns.org/
+> ![Texto Descripción generada
+automáticamente](https://github.com/ahmedwaix/Practica-05/blob/main/imagenes/11.png)
+
+> Tal com es veu, ens surt un missatge que el domini s'ha afegit al nostre compte:![Texto Descripción generada
+automáticamente](https://github.com/ahmedwaix/Practica-05/blob/main/imagenes/12.png)
+
+> Ens a generat una **IP** random que ell  a escollit:![Texto Descripción generada
 automáticamente](https://github.com/ahmedwaix/Practica-05/blob/main/imagenes/13.png)
 
 5.  **Instal·la el drupal seguint les instruccions https://comoinstalar.me/como-instalar-drupal-en-ubuntu-20-04-lts/**
@@ -120,7 +123,8 @@ automáticamente](https://github.com/ahmedwaix/Practica-05/blob/main/imagenes/13
 >
 > ![Texto Descripción generada
 automáticamente](https://github.com/ahmedwaix/Practica-05/blob/main/imagenes/14.png)![Texto Descripción generada
-automáticamente](https://github.com/ahmedwaix/Practica-05/blob/main/imagenes/15.png)Ara instal·lem MySQL, hi ho farem des de
+automáticamente](https://github.com/ahmedwaix/Practica-05/blob/main/imagenes/15.png)
+Ara instal·lem MySQL, hi ho farem des de
 > la terminal mitjançant wget partint que hem de reedireccionar l'enllaç
 > on està el MySQL, en el navegador.
 > ![Texto Descripción generada
