@@ -176,11 +176,11 @@ automáticamente](https://github.com/ahmedwaix/Practica-05/blob/main/imagenes/29
 >
 > ![Texto Descripción generada
 automáticamente](https://github.com/ahmedwaix/Practica-05/blob/main/imagenes/30.png)
->Li donem permissos i tal com es veu amb
+> Li donem permissos i tal com es veu amb
 > el **ls** podem veure amb s'han aplicat els
 > canvis:![Texto Descripción generada
 automáticamente](https://github.com/ahmedwaix/Practica-05/blob/main/imagenes/31.png)
->Habilitar la configuración del drupal i
+> Habilitar la configuración del drupal i
 > reiniciar el servei d'Apache2, per veure si el estat està actiu i que
 > tot funciona:
 >
@@ -196,16 +196,16 @@ automáticamente](https://github.com/ahmedwaix/Practica-05/blob/main/imagenes/33
 > dades![Texto Descripción generada
 automáticamente](https://github.com/ahmedwaix/Practica-05/blob/main/imagenes/34.png)![Texto Descripción generada
 automáticamente](https://github.com/ahmedwaix/Practica-05/blob/main/imagenes/35.png)
-> Tornem a reiniciar el servei d'Apache i
-> tal com es veu, l'estat està actiu funcionant
+
+> Tornem a reiniciar el servei d'Apache i tal com es veu, l'estat està actiu funcionant
 > correctament:![Texto Descripción generada
 automáticamente](https://github.com/ahmedwaix/Practica-05/blob/main/imagenes/36.png)
-> Ens dirigim al navegador, per tal
-> d\'instal·lar el drupal via web, i elegim l'idioma
+
+> Ens dirigim al navegador, per tal d\'instal·lar el drupal via web, i elegim l'idioma
 > (**Español**)![Texto Descripción generada
 automáticamente](https://github.com/ahmedwaix/Practica-05/blob/main/imagenes/37.png)
-> Ara elegim el perfil d'instal·lació, en el
-> nostre cas elegim el per defecte el
+
+> Ara elegim el perfil d'instal·lació, en el nostre cas elegim el per defecte el
 > **estàndard**![Texto Descripción generada
 automáticamente](https://github.com/ahmedwaix/Practica-05/blob/main/imagenes/38.png)
 >
@@ -221,9 +221,8 @@ automáticamente](https://github.com/ahmedwaix/Practica-05/blob/main/imagenes/40
 > Al final de l'instal·lació ens mostra que s'ha instal·lat els arxiu de
 > traduccions![Texto Descripción generada
 automáticamente](https://github.com/ahmedwaix/Practica-05/blob/main/imagenes/41.png)
-> Configurem la nostra pàgina posant el nom
-> que ha de tenir (**Drupal Ahmed**), també hem de posar el nostre email
-> per vincular de manera que s'envï la informació per
+>
+> Configurem la nostra pàgina posant el nom que ha de tenir (**Drupal Ahmed**), també hem de posar el nostre email per vincular de manera que s'envï la informació per
 > allà![Texto Descripción generada
 automáticamente](https://github.com/ahmedwaix/Practica-05/blob/main/imagenes/42.png)
 >
