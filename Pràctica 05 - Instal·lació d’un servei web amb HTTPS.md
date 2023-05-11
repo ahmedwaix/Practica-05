@@ -74,8 +74,7 @@ automáticamente](https://github.com/ahmedwaix/Practica-05/blob/main/imagenes/5.
 
 3.  **Assignar-l\'hi una ip elàstica XX.XX.XX.XX**
 
-> Ens anem a l'apartat de **Dirreccions IP elàstiques \> Assignar la
-> dirrecció IP elàstica,** per tal d\'assignar-ne una:
+> Ens anem a l'apartat de **Dirreccions IP elàstiques \> Assignar la dirrecció IP elàstica,** per tal d\'assignar-ne una:
 >
 >![Texto Descripción generada
 automáticamente](https://github.com/ahmedwaix/Practica-05/blob/main/imagenes/6.png)
