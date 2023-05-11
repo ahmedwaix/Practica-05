@@ -122,19 +122,23 @@ automáticamente](https://github.com/ahmedwaix/Practica-05/blob/main/imagenes/13
 automáticamente](https://github.com/ahmedwaix/Practica-05/blob/main/imagenes/14.png)![Texto Descripción generada
 automáticamente](https://github.com/ahmedwaix/Practica-05/blob/main/imagenes/15.png)
 
-> Ara instal·lem MySQL, hi ho farem des de
-> la terminal mitjançant wget partint que hem de reedireccionar l'enllaç on està el MySQL, en el navegador.
+> 
+> Ara instal·lem MySQL, hi ho farem des de la terminal mitjançant wget partint que hem de reedireccionar l'enllaç on està el MySQL, en el navegador.
 > ![Texto Descripción generada
-automáticamente](https://github.com/ahmedwaix/Practica-05/blob/main/imagenes/16.png)Instal·lem altres paquets necessaris\...
+automáticamente](https://github.com/ahmedwaix/Practica-05/blob/main/imagenes/16.png)
+
+> Instal·lem altres paquets necessaris\...
 >![Texto Descripción generada
 automáticamente](https://github.com/ahmedwaix/Practica-05/blob/main/imagenes/17.png)
 
 > Elegirem que el volem en format Server tal com està el nostre
 > Ubuntu![Texto Descripción generada
 automáticamente](https://github.com/ahmedwaix/Practica-05/blob/main/imagenes/18.png) 
+> 
 > Elegim la versió del mysql
 > ![Texto Descripción generada
 automáticamente](https://github.com/ahmedwaix/Practica-05/blob/main/imagenes/19.png)
+> 
 > Per últim faltaria instal·lar el mysql-server en el nostre Ubuntui assignar-li una contrasenya a root, en mode encryptat
 >
 > ![Texto Descripción generada
